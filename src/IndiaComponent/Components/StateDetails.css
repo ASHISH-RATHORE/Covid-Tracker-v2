@@ -1,0 +1,42 @@
+body{
+    display: block !important;
+    height: auto !important;
+    width: auto;
+    justify-content: center;
+   
+}
+
+
+.vaccine-info{
+    height:40px;
+   
+    display: flex;
+    justify-content:center;
+    margin-top:10px;
+    background-color: #FBD0EE !important;   
+}
+/* 
+.table-data{
+margin-top: 80px;
+width: auto;
+} */
+
+.table-data{
+margin-top: 10px;
+}
+.table-data:hover {
+    box-shadow: 0.5px 0.5px 15px 1px rgba(0.3,0.2,0.1,.2) !important;
+}
+.logo{
+
+    font-size:large;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: auto;
+}
+
+.vaccine-info div{
+    margin-top: 10px;
+    width:auto;
+    letter-spacing: 1px;
+}

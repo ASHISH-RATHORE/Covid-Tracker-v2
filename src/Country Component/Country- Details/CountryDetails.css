@@ -1,0 +1,31 @@
+
+#details{
+    width: 100% !important;
+}
+
+.country-card{
+    height: 290px;
+    width: 210px;
+    border-radius: 15px !important;
+}
+
+.card-info{
+    height:110px;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly ;
+    width: 180px !important;
+}
+
+.card-info div{
+    font-size: 14px;
+}
+
+.image{
+    border-radius:15px !important;
+    width:180px !important;
+    height: 120px;
+    margin-left: 15px;
+    margin-top: 10px;
+}

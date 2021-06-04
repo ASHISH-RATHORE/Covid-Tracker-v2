@@ -1,0 +1,30 @@
+.form-data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+}
+
+.form-input{
+display: flex !important;
+/* justify-content: center !important; */
+/* justify-items: center; */
+width: 50%;
+margin-left: 120px;
+}
+
+.form-button{
+    display: flex;
+    justify-content: center;
+}
+
+.form-timer{
+display: flex;
+justify-content: center;
+
+}
+
+.form-resend{
+    display: flex;
+    justify-content: center;
+}

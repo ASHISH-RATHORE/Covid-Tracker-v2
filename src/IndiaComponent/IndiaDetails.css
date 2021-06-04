@@ -1,0 +1,36 @@
+.state-chart{
+    margin-top: 100px !important;
+}
+
+.site-layout-content{
+    display: flex;
+    height: auto !important;
+    width: auto;
+    flex-direction: column;
+    justify-content:space-evenly;
+}
+
+.navbar{
+    background-color:#001529;
+    display: flex;
+    justify-content: space-around;
+    
+    
+    
+}
+
+.header-title{
+    display: flex;
+    /* justify-content: center; */
+}
+
+.close-icon{
+    font-size: 20px !important;
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+
+.layout{
+    height: auto !important;
+}

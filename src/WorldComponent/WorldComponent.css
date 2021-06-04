@@ -1,0 +1,14 @@
+.navbar {
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-between !important;
+    height: 65px;
+}
+
+.header-title {
+    margin-top: 10px;
+}
+
+.site-layout-content{
+    margin-top: -10px !important;
+}

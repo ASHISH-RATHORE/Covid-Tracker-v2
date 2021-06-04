@@ -1,0 +1,21 @@
+
+
+
+
+.country{
+    letter-spacing: 2px !important;
+}
+
+.text{
+    word-spacing:1px;
+}
+
+.main{
+    background:'transparent';
+    margin-top:15px
+}
+
+.marquee-list{
+    display:'flex';
+    justify-content:'space-evenly';
+}

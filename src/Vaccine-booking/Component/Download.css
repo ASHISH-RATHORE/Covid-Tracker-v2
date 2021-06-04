@@ -1,0 +1,24 @@
+
+.form1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 200px !important;
+}
+
+.form2 button {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.logout-button {
+    display: flex;
+    justify-content: flex-end;
+    
+}

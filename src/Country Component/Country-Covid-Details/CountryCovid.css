@@ -1,0 +1,42 @@
+#box {
+    display: flex;
+       justify-content: space-between;   
+       width: 100% !important;
+}
+
+.cases {
+    margin-top: 5px;
+    width: 300px !important;
+    height: 80px !important;
+    border-radius: 10px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    text-align: center;
+    justify-content: space-evenly !important;
+    
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    letter-spacing: 1px !important;
+    height: 80px;
+    border-radius: 20px !important;
+    font-size: 22px;
+    
+    
+}
+
+.confirmed{
+    border-top: 5px solid red !important;
+}
+
+.recovered{
+    border-top: 5px solid green !important;
+}
+
+
+.fatal{
+    border-top: 5px solid grey !important;
+}
+

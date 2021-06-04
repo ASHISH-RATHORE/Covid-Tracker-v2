@@ -1,0 +1,56 @@
+body{
+    background-color: #f5f5f5 !important;
+    height: auto !important;
+}
+
+.display-box{
+    
+    margin-top: 40px;
+    height: auto !important;
+}
+.title-center{
+    font-weight: bold;
+    display: flex !important;
+    flex-direction: row;
+    justify-content: center !important;
+
+}
+.site-card-wrapper{
+    display: flex !important;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+
+}
+
+.content{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dates{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 12px;
+    justify-content: space-evenly;
+    font-weight:bolder;
+}
+
+/* .dates span{
+    border-bottom: 1px solid black !important;
+} */
+
+.tab-data{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tab-data div:last-child{
+    margin-top: 0px;
+}
+
+.site-badge-count-4{
+    size: 5px !important;
+}

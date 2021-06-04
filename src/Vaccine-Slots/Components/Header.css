@@ -1,0 +1,14 @@
+.navbar{
+    display: flex !important;
+    justify-content:flex-start !important;
+    height: 100px;
+
+}
+
+.title{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: #52C41C !important;
+    font-size: large !important;
+    position:absolute;
+}

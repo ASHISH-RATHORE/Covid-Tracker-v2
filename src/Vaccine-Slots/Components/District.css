@@ -1,0 +1,18 @@
+#center-list{
+  height: 100% !important;
+  margin-top: 100px;
+}
+.select{
+    display: flex;
+  justify-content: space-evenly;
+  margin-top: 40px;
+  flex-direction: row;
+}
+
+
+.select div{
+    margin: 0px 10px !important;
+}
+
+
+

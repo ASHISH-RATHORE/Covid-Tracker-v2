@@ -1,0 +1,12 @@
+.selector{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    width: auto;
+    height: auto !important;
+}
+
+#options-type{
+    height: auto !important;
+    margin-top: 65px;
+}

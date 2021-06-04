@@ -1,0 +1,37 @@
+.body{
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.covid-details{
+    margin-top: 35px;
+    height: auto;
+    min-width: 100%;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+    background-color: white;
+}
+.covid-details:hover {
+    box-shadow: 0.5px 0.5px 15px 1px rgba(0.3,0.2,0.1,.2) !important;
+}
+
+
+.cases-value{
+    height: 2px;
+    margin-left: 55px;
+    font-size:medium;
+    justify-content: center;  
+}
+
+
+.cases-value-today{
+    
+    height: 2px;
+    margin-left: 20px;
+    font-size:xx-small;
+    justify-content: center; 
+}
